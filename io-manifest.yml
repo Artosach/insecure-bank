@@ -1,0 +1,11 @@
+template: high-risk
+application:
+	projectlanguage: Java
+	platformVersion: Java 8
+	builsystem: Maven
+environment:
+	jiraProjectName: IB 
+	testDeploumentRoot: insecure-bank
+security:
+	pipeline:
+		toolchain: "Synopsys"
