@@ -15,7 +15,7 @@ environment:
   scm:  github 
   scmOwner:  Artosach 
   scmRepositoryName:  insecurebank 
-  scmBranchName:  maine 
+  scmBranchName:  main 
   githubApiUrl: https://api.github.com/repos/
   jiraProjectName:  IB 
   jiraIssuesQuery:  JIRA_ISSUES_QUERY 
